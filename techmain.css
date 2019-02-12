@@ -1,0 +1,23 @@
+body {
+    background-color: lightseagreen;
+}
+
+.main-section {
+    background-color: lightslategrey;
+    width: 25%;
+}
+
+.navbar {
+    position: fixed;
+    background-color: lightcoral;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: coral;
+    text-align: center;
+    font-size: 17px;
+}
